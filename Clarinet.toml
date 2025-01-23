@@ -14,6 +14,11 @@ epoch = 2.5
 path = 'contracts/extraterrestrial-species-nft.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.preservation-projects]
+path = 'contracts/preservation-projects.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
