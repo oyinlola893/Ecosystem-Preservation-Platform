@@ -11,3 +11,5 @@ T
 $contracts/preservation-projects.clar,a/0/a0fbdec6ee11f319ebb7b13160287235b92d6cb2
 Q
 !contracts/species-relocation.clar,0/7/07b1155e9f2223b560ac2e49b68bf3c5e3ffe3f3
+V
+&contracts/terraforming-operations.clar,0/4/043dac45d7a6f3504509192f1456670c0223bdea

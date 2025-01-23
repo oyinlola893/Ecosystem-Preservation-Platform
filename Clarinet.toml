@@ -24,6 +24,11 @@ epoch = 2.5
 path = 'contracts/species-relocation.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.terraforming-operations]
+path = 'contracts/terraforming-operations.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
